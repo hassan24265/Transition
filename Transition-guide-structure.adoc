@@ -9,8 +9,8 @@
 == Migration from GTS to WIS2
 === Pre-operational and operational phases
 ==== Definition of pre-operational phase  
-==== How to transition from pilot to per-operational 
-==== How to transition from pre-operational to operational 
+==== How to make transition from pilot to pre-operational 
+==== How to make transition from pre-operational to operational 
 == Temporary Global Services 
 === GTS to WIS2 gateway 
 === WIS2 to GTS gateway  
