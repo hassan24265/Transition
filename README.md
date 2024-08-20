@@ -15,3 +15,15 @@ asciidoctor --trace -o wis2-transition-guide.html index.adoc
 asciidoctor --trace -r asciidoctor-pdf --trace -b pdf -o wis2-transition-guide.pdf index.adoc
 # create Word document
 asciidoctor --trace --backend docbook --out-file - index.adoc | pandoc --from docbook --to docx --output wis2-transition-guide.docx
+
+
+
+https://asciidoctor.org - automatic!
+
+https://asciidoctor.org[Asciidoctor]
+
+devel@discuss.example.org
+
+mailto:devel@discuss.example.org[Discuss]
+
+mailto:join@discuss.example.org[Subscribe,Subscribe me,I want to join!]
