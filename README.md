@@ -16,7 +16,7 @@ asciidoctor --trace -r asciidoctor-pdf --trace -b pdf -o wis2-transition-guide.p
 # create Word document
 asciidoctor --trace --backend docbook --out-file - index.adoc | pandoc --from docbook --to docx --output wis2-transition-guide.docx
 
-
+link:index.html[Docs]
 
 https://asciidoctor.org - automatic!
 
