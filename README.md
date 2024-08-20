@@ -2,7 +2,7 @@ Overview
 This directory manages the WIS2 Transition Guide. This document provides technical guidance on transitioning from GTS to WIS2.
 
 Dependencies
-Documentation is managed with [Asciidoctor] (https://asciidoctor.org)
+Documentation is managed with [Asciidoctor](https://asciidoctor.org)
 
 Link checking is managed with asciidoc-link-check.
 
